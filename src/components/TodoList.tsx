@@ -15,5 +15,4 @@ const TodoList: React.FC<TodoListProps> = props => {
     )
 }
 
-
 export default TodoList
